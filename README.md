@@ -1,4 +1,4 @@
-# 🏢 Active Directory Lab with Splunk SIEM & AI Automation
+# Active Directory Lab with Splunk SIEM & AI Automation
 
 A home SOC environment built on AWS simulating a real enterprise Active Directory domain. Windows event logs from a Domain Controller and client machine are ingested into a Splunk SIEM, where custom detection rules trigger automated AI-powered alerts delivered to Discord in real time.
 
