@@ -150,7 +150,8 @@ requiring immediate containment.
 
 ## Screenshots
 
-> *Architecture Diagram — Full pipeline from AD to Discord*
+> <img width="3833" height="748" alt="image" src="https://github.com/user-attachments/assets/67e065af-981e-49f5-82cc-252374581f89" />
+
 
 > *Tines Automation Pipeline — Webhook → AI Agent → Discord*
 
