@@ -98,7 +98,7 @@ The AI agent was given a custom system prompt instructing it to act as a SOC ana
 
 ### Authorized RDP Login (Low Severity)
 
-<img width="2739" height="366" alt="image" src="https://github.com/user-attachments/assets/59d06c69-8796-4ab0-aad1-7ee8bd282d97" />
+<img width="2636" height="369" alt="image" src="https://github.com/user-attachments/assets/6cccf09f-10a5-4af2-84ad-b446224d4a73" />
 
   
 ### New User Account Created — Suspicious (High Severity)
