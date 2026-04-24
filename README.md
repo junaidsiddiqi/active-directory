@@ -15,27 +15,8 @@ The environment consists of three AWS EC2 instances: a Windows Server Domain Con
 ## Architecture
 
 ```
-┌─────────────────────────────────────────┐
-│           AWS (Virtual Machines)         │
-│                                         │
-│  ┌──────────────────┐                   │
-│  │ Domain Controller│──── Telemetry ───►│
-│  │ Windows Server   │                   │
-│  │ Domain: DC01.local│                  │
-│  └──────────────────┘                   │     ┌─────────────────┐
-│                                         │     │  Tines Webhook  │
-│  ┌──────────────────┐    Alert          │     └────────┬────────┘
-│  │  Splunk SIEM     │─── Triggered ────►│              │ Alert Payload
-│  │  Ubuntu Server   │    Notification   │              ▼
-│  └──────────────────┘                   │     ┌─────────────────┐
-│                                         │     │  SOC Analyst    │
-│  ┌──────────────────┐                   │     │    AI Agent     │
-│  │  Client Machine  │──── Telemetry ───►│     └────────┬────────┘
-│  │  Windows Server  │                   │              │ Alert Analysis
-│  └──────────────────┘                   │              ▼
-└─────────────────────────────────────────┘     ┌─────────────────┐
-                                                 │    Discord      │
-                                                 └─────────────────┘
+<img width="2423" height="1211" alt="image" src="https://github.com/user-attachments/assets/3582094b-0a4e-4925-b84c-b039bbc4941b" />
+
 ```
 
 ---
