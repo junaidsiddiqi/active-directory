@@ -147,6 +147,12 @@ requiring immediate containment.
 5. Preserve all logs for forensics
 6. Escalate to incident response team and AWS security
 ```
+<details>
+<summary>📸 View Screenshot</summary>
+
+![Unauthorized Successful Login](screenshots/unauthorized_login.png)
+
+</details>
 
 ---
 
