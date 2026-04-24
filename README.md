@@ -151,6 +151,8 @@ requiring immediate containment.
 
 ## Screenshots
 
+> <img width="3832" height="1470" alt="image" src="https://github.com/user-attachments/assets/2d14882c-e024-463a-8334-22a6b432aba2" />
+
 > <img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/8f8d923e-c40d-4413-b26d-60b4db3e44e7" />
 
 > <img width="3863" height="2088" alt="image" src="https://github.com/user-attachments/assets/cc00c914-e454-40c9-95d2-da8d3b289b58" />
