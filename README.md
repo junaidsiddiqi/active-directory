@@ -150,7 +150,7 @@ requiring immediate containment.
 <details>
 <summary>📸 View Screenshot</summary>
 
-!<img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/8f8d923e-c40d-4413-b26d-60b4db3e44e7" />
+<img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/8f8d923e-c40d-4413-b26d-60b4db3e44e7" />
 
 </details>
 
