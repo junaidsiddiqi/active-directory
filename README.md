@@ -91,8 +91,10 @@ Configured a 3-step Tines workflow:
 
 ### 6. AI Agent Prompt
 The AI agent was given a custom system prompt instructing it to act as a SOC analyst, respond in a consistent format, apply severity guidelines, classify IP addresses, identify false positives, and follow escalation rules based on the environment context.
-
-> <img width="943" height="1706" alt="image" src="https://github.com/user-attachments/assets/bccc09b0-88ab-4259-96d1-3796708bf770" />
+<details>
+<summary>🔽 Click to expand screenshot</summary>
+  <img width="943" height="1706" alt="image" src="https://github.com/user-attachments/assets/bccc09b0-88ab-4259-96d1-3796708bf770" />
+<details>
 
 ---
 
@@ -132,7 +134,8 @@ investigation as the account name suggests malicious intent.
 ```
 <details>
 <summary>🔽 Click to expand screenshot</summary>
-
+<details>
+  
 ### Unauthorized Successful Login (Critical Severity)
 ```
 🚨 ALERT: Unauthorized Successful Login
@@ -155,7 +158,8 @@ requiring immediate containment.
 <summary>📸 View Screenshot</summary>
 
 <img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/8f8d923e-c40d-4413-b26d-60b4db3e44e7" />
-
+<details>
+  
 ---
 
 ## Screenshots
