@@ -110,7 +110,9 @@ home IP. This is expected authorized activity from a known administrator source.
 ✅ ACTION: No action required. Log event and continue monitoring.
 🕐 TIME: 2025-01-21 ~02:30 UTC
 ```
-
+<details>
+<summary>🔽 Click to expand screenshot</summary>
+  
 ### New User Account Created — Suspicious (High Severity)
 ```
 ⚠️ ALERT: New User Account Created
@@ -128,6 +130,8 @@ investigation as the account name suggests malicious intent.
 4. Review all actions performed by this new account since creation
 5. Isolate EC2AMAZ-BF6VI1C if compromise is confirmed
 ```
+<details>
+<summary>🔽 Click to expand screenshot</summary>
 
 ### Unauthorized Successful Login (Critical Severity)
 ```
@@ -151,8 +155,6 @@ requiring immediate containment.
 <summary>📸 View Screenshot</summary>
 
 <img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/8f8d923e-c40d-4413-b26d-60b4db3e44e7" />
-
-</details>
 
 ---
 
