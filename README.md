@@ -67,7 +67,6 @@ disabled = false
 index = dc01-ad
 disabled = false
 
-
 ```
 
 ### 4. Detection Rules (Splunk Alerts)
@@ -91,10 +90,7 @@ Configured a 3-step Tines workflow:
 
 ### 6. AI Agent Prompt
 The AI agent was given a custom system prompt instructing it to act as a SOC analyst, respond in a consistent format, apply severity guidelines, classify IP addresses, identify false positives, and follow escalation rules based on the environment context.
-<details>
-<summary>🔽 Click to expand screenshot</summary>
-  <img width="943" height="1706" alt="image" src="https://github.com/user-attachments/assets/bccc09b0-88ab-4259-96d1-3796708bf770" />
-<details>
+
 
 ---
 
@@ -112,8 +108,7 @@ home IP. This is expected authorized activity from a known administrator source.
 ✅ ACTION: No action required. Log event and continue monitoring.
 🕐 TIME: 2025-01-21 ~02:30 UTC
 ```
-<details>
-<summary>🔽 Click to expand screenshot</summary>
+
   
 ### New User Account Created — Suspicious (High Severity)
 ```
@@ -132,9 +127,6 @@ investigation as the account name suggests malicious intent.
 4. Review all actions performed by this new account since creation
 5. Isolate EC2AMAZ-BF6VI1C if compromise is confirmed
 ```
-<details>
-<summary>🔽 Click to expand screenshot</summary>
-<details>
   
 ### Unauthorized Successful Login (Critical Severity)
 ```
@@ -181,11 +173,11 @@ requiring immediate containment.
 
 ## Key Takeaways
 
-- **End-to-end SOC pipeline** — built every layer from log collection to automated alerting
-- **Detection engineering** — wrote custom SPL queries mapping to real attack techniques
-- **AI automation** — integrated an AI agent that performs real-time alert triage and generates actionable SOC responses
-- **False positive reduction** — refined detection rules to reduce noise from machine accounts, internal IPs, and expected system behavior
-- **Active Directory administration** — configured domain, users, groups, GPOs, and security policies from scratch
+- **Built a full SOC pipeline from scratch** — every layer from log collection to real-time alerting was configured manually, nothing was pre-built
+- **Wrote real detection rules** — custom SPL queries targeting specific Windows event codes that map to actual attacker techniques
+- **Automated alert triage with AI** — instead of just sending raw log data to Discord, an AI agent analyzes each alert and returns a formatted SOC response with severity, summary, and action steps
+- **Learned to tune detection rules** — worked through noisy alerts caused by machine accounts, internal IPs, and normal system behavior to get clean and accurate detections
+- **Hands-on Active Directory administration** — built the domain, created users and groups, configured OUs, and enforced security policies through GPOs
 
 ---
 
