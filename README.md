@@ -156,11 +156,11 @@ The AI agent was given a custom system prompt instructing it to act as a SOC ana
 
 ## Key Takeaways
 
-- **Built a full SOC pipeline from scratch** — every layer from log collection to real-time alerting was configured manually, nothing was pre-built
-- **Wrote real detection rules** — custom SPL queries targeting specific Windows event codes that map to actual attacker techniques
-- **Automated alert triage with AI** — instead of just sending raw log data to Discord, an AI agent analyzes each alert and returns a formatted SOC response with severity, summary, and action steps
-- **Learned to tune detection rules** — worked through noisy alerts caused by machine accounts, internal IPs, and normal system behavior to get clean and accurate detections
-- **Hands-on Active Directory administration** — built the domain, created users and groups, configured OUs, and enforced security policies through GPOs
+- **Deployed and managed cloud infrastructure on AWS — provisioned three EC2 instances, configured security groups, and maintained network connectivity across the entire lab environment
+- **Built a full SOC pipeline from scratch — every layer from log collection to real-time alerting was configured manually across cloud infrastructure, Windows servers, a SIEM, an automation platform, and Discord
+- **Wrote and tuned custom detection rules — developed 6 SPL queries targeting specific Windows event codes, then iteratively refined them based on real observed behavior to eliminate noise from machine accounts and internal traffic
+- **Automated alert triage with AI — instead of forwarding raw log data, built a Tines workflow where an AI agent analyzes each alert and delivers a formatted SOC response with severity rating, summary, and action steps
+- **Gained hands-on Active Directory administration experience — built a domain from scratch, created users and groups, configured OUs, and enforced security policies through GPOs including account lockout, password complexity, and access restrictions
 
 ---
 
