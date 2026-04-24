@@ -147,7 +147,7 @@ The AI agent was given a custom system prompt instructing it to act as a SOC ana
 > <img width="3833" height="1100" alt="image" src="https://github.com/user-attachments/assets/d44365ac-4b3f-4fb0-ac5b-8caf894d6327" />
 
 
-###SPL Query Example: Brute Force - Failed Logins
+### SPL Query Example: Brute Force - Failed Logins
 
 > <img width="3828" height="683" alt="image" src="https://github.com/user-attachments/assets/6f2482d9-2654-448c-984f-e33b4baf7c70" />
 
