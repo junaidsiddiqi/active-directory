@@ -152,12 +152,13 @@ requiring immediate containment.
 
 > <img width="3833" height="748" alt="image" src="https://github.com/user-attachments/assets/67e065af-981e-49f5-82cc-252374581f89" />
 
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef6d9452-dd5e-4fd0-a2c2-32d063d756cc" />
 
-> *Tines Automation Pipeline — Webhook → AI Agent → Discord*
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9c27707-8c4a-44e5-b460-589bde10c40a" />
 
-> *Splunk Alerts Dashboard — 6 custom detection rules*
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d75f591c-66e2-4ebd-bc2c-e9ff112e6616" />
 
-> *Discord Alerts — AI-generated SOC responses for each alert type*
+>
 
 ---
 
