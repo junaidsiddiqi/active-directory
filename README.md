@@ -15,7 +15,7 @@ The environment consists of three AWS EC2 instances: a Windows Server Domain Con
 ## Architecture
 
 <img width="2423" height="1211" alt="image" src="https://github.com/user-attachments/assets/3582094b-0a4e-4925-b84c-b039bbc4941b" />
-
+<img width="316" height="769" alt="image" src="https://github.com/user-attachments/assets/3894e41e-6bb2-4712-9217-5185ea997db9" />
 
 ---
 
@@ -91,6 +91,7 @@ Configured a 3-step Tines workflow:
 ### 6. AI Agent Prompt
 The AI agent was given a custom system prompt instructing it to act as a SOC analyst, respond in a consistent format, apply severity guidelines, classify IP addresses, identify false positives, and follow escalation rules based on the environment context.
 
+<img width="2327" height="1695" alt="image" src="https://github.com/user-attachments/assets/d0752ddf-7618-44a4-90ca-d9414570fadd" />
 
 ---
 
