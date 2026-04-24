@@ -95,18 +95,22 @@ The AI agent was given a custom system prompt instructing it to act as a SOC ana
 ---
 
 ## Alert Examples
+### Brute Force - Failed Logins 
 
-### Authorized RDP Login (Low Severity)
+<img width="2435" height="382" alt="image" src="https://github.com/user-attachments/assets/87015ccd-6cc4-451f-9165-0b09f8885ba3" />
+
+
+### Authorized RDP Login 
 
 <img width="2636" height="369" alt="image" src="https://github.com/user-attachments/assets/6cccf09f-10a5-4af2-84ad-b446224d4a73" />
 
   
-### New User Account Created — Suspicious (High Severity)
+### New User Account Created 
 
 <img width="2827" height="625" alt="image" src="https://github.com/user-attachments/assets/a6ac3e7e-8f1d-4d16-bf65-740a2b8f4e9f" />
 
   
-### Unauthorized Successful Login (Critical Severity)
+### Unauthorized Successful Login 
 
 <img width="2818" height="691" alt="image" src="https://github.com/user-attachments/assets/9561f93b-2c81-4431-a01f-1549441fac40" />
 
