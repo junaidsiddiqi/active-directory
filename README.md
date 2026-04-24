@@ -14,10 +14,8 @@ The environment consists of three AWS EC2 instances: a Windows Server Domain Con
 
 ## Architecture
 
-```
 <img width="2423" height="1211" alt="image" src="https://github.com/user-attachments/assets/3582094b-0a4e-4925-b84c-b039bbc4941b" />
 
-```
 
 ---
 
