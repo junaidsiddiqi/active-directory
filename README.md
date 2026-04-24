@@ -146,7 +146,12 @@ requiring immediate containment.
 5. Preserve all logs for forensics
 6. Escalate to incident response team and AWS security
 ```
-  
+<details>
+<summary>🔽 Click to expand screenshot</summary>
+
+<img width="2818" height="691" alt="image" src="https://github.com/user-attachments/assets/9561f93b-2c81-4431-a01f-1549441fac40" />
+
+</details>
 ---
 
 ## Screenshots
