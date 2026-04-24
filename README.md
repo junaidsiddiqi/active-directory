@@ -14,7 +14,7 @@ The environment consists of three AWS EC2 instances: a Windows Server Domain Con
 
 ## Architecture
 
-<img width="2423" height="1211" alt="image" src="https://github.com/user-attachments/assets/3582094b-0a4e-4925-b84c-b039bbc4941b" />
+> <img width="2423" height="1211" alt="image" src="https://github.com/user-attachments/assets/3582094b-0a4e-4925-b84c-b039bbc4941b" />
 
 ---
 
@@ -90,37 +90,37 @@ Configured a 3-step Tines workflow:
 ### 6. AI Agent Prompt
 The AI agent was given a custom system prompt instructing it to act as a SOC analyst, respond in a consistent format, apply severity guidelines, classify IP addresses, identify false positives, and follow escalation rules based on the environment context.
 
-<img width="2415" height="1577" alt="image" src="https://github.com/user-attachments/assets/e39e215b-d795-4886-9ada-7fe77aac40b5" />
+> <img width="2415" height="1577" alt="image" src="https://github.com/user-attachments/assets/e39e215b-d795-4886-9ada-7fe77aac40b5" />
 
 ---
 
 ## Alert Examples
 ### Brute Force - Failed Logins 
 
-<img width="2435" height="382" alt="image" src="https://github.com/user-attachments/assets/87015ccd-6cc4-451f-9165-0b09f8885ba3" />
+> <img width="2435" height="382" alt="image" src="https://github.com/user-attachments/assets/87015ccd-6cc4-451f-9165-0b09f8885ba3" />
 
 
 ### Authorized RDP Login 
 
-<img width="2636" height="369" alt="image" src="https://github.com/user-attachments/assets/6cccf09f-10a5-4af2-84ad-b446224d4a73" />
+> <img width="2636" height="369" alt="image" src="https://github.com/user-attachments/assets/6cccf09f-10a5-4af2-84ad-b446224d4a73" />
 
   
 ### New User Account Created 
 
-<img width="2827" height="625" alt="image" src="https://github.com/user-attachments/assets/a6ac3e7e-8f1d-4d16-bf65-740a2b8f4e9f" />
+> <img width="2827" height="625" alt="image" src="https://github.com/user-attachments/assets/a6ac3e7e-8f1d-4d16-bf65-740a2b8f4e9f" />
 
   
 ### Unauthorized Successful Login 
 
-<img width="2818" height="691" alt="image" src="https://github.com/user-attachments/assets/9561f93b-2c81-4431-a01f-1549441fac40" />
+> <img width="2818" height="691" alt="image" src="https://github.com/user-attachments/assets/9561f93b-2c81-4431-a01f-1549441fac40" />
 
 ### User Account Modified or Deleted
 
-<img width="2582" height="617" alt="image" src="https://github.com/user-attachments/assets/2d74e205-4606-41cf-b35c-7cd2acad9e4b" />
+> <img width="2582" height="617" alt="image" src="https://github.com/user-attachments/assets/2d74e205-4606-41cf-b35c-7cd2acad9e4b" />
 
 ### User Account Disabled
 
-<img width="2729" height="417" alt="image" src="https://github.com/user-attachments/assets/3e323a8b-efb8-4a7a-b36c-92fea3ef5290" />
+> <img width="2729" height="417" alt="image" src="https://github.com/user-attachments/assets/3e323a8b-efb8-4a7a-b36c-92fea3ef5290" />
 
 ---
 
