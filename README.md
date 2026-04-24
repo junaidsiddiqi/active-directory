@@ -183,12 +183,13 @@ requiring immediate containment.
 |------|---------|
 | AWS EC2 | Cloud infrastructure |
 | Windows Server 2022 | Domain Controller and client machine |
+| Ubuntu Server | Splunk host OS |
 | Active Directory | Identity and access management |
 | Splunk Enterprise | SIEM — log ingestion, detection, alerting |
 | Splunk Universal Forwarder | Log shipping from Windows to Splunk |
 | Tines | Security automation and orchestration |
 | Discord | Real-time alert delivery |
-| Ubuntu Server | Splunk host OS |
+
 
 ---
 
