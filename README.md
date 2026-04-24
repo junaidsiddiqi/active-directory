@@ -156,11 +156,11 @@ The AI agent was given a custom system prompt instructing it to act as a SOC ana
 
 ## Key Takeaways
 
-- **Deployed and managed cloud infrastructure on AWS — provisioned three EC2 instances, configured security groups, and maintained network connectivity across the entire lab environment
-- **Built a full SOC pipeline from scratch — every layer from log collection to real-time alerting was configured manually across cloud infrastructure, Windows servers, a SIEM, an automation platform, and Discord
-- **Wrote and tuned custom detection rules — developed 6 SPL queries targeting specific Windows event codes, then iteratively refined them based on real observed behavior to eliminate noise from machine accounts and internal traffic
-- **Automated alert triage with AI — instead of forwarding raw log data, built a Tines workflow where an AI agent analyzes each alert and delivers a formatted SOC response with severity rating, summary, and action steps
-- **Gained hands-on Active Directory administration experience — built a domain from scratch, created users and groups, configured OUs, and enforced security policies through GPOs including account lockout, password complexity, and access restrictions
+- Deployed and managed cloud infrastructure on AWS — provisioned three EC2 instances, configured security groups, and maintained network connectivity across the entire lab environment
+- Built a full SOC pipeline from scratch — every layer from log collection to real-time alerting was configured manually across cloud infrastructure, Windows servers, a SIEM, an automation platform, and Discord
+- Wrote and tuned custom detection rules — developed 6 SPL queries targeting specific Windows event codes, then iteratively refined them based on real observed behavior to eliminate noise from machine accounts and internal traffic
+- Automated alert triage with AI — instead of forwarding raw log data, built a Tines workflow where an AI agent analyzes each alert and delivers a formatted SOC response with severity rating, summary, and action steps
+- Gained hands-on Active Directory administration experience — built a domain from scratch, created users and groups, configured OUs, and enforced security policies through GPOs including account lockout, password complexity, and access restrictions
 
 ---
 
