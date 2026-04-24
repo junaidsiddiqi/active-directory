@@ -97,36 +97,14 @@ The AI agent was given a custom system prompt instructing it to act as a SOC ana
 ## Alert Examples
 
 ### Authorized RDP Login (Low Severity)
-```
-✅ ALERT: Authorized RDP Login
-📍 HOST: EC2AMAZ-BF6VI1C
-👤 USER: Administrator
-🌐 IP: [TRUSTED_IP_REDACTED] (Houston, Texas)
-⚠️ SEVERITY: Low
-📋 SUMMARY: Administrator successfully logged in via RDP from known trusted 
-home IP. This is expected authorized activity from a known administrator source.
-✅ ACTION: No action required. Log event and continue monitoring.
-🕐 TIME: 2025-01-21 ~02:30 UTC
-```
+
+<img width="2739" height="366" alt="image" src="https://github.com/user-attachments/assets/59d06c69-8796-4ab0-aad1-7ee8bd282d97" />
 
   
 ### New User Account Created — Suspicious (High Severity)
-```
-⚠️ ALERT: New User Account Created
-📍 HOST: EC2AMAZ-BF6VI1C
-👤 USER: hacker (created by Administrator)
-🌐 IP: [Unknown]
-⚠️ SEVERITY: High
-📋 SUMMARY: A new user account named "hacker" was created on EC2AMAZ-BF6VI1C 
-by the Administrator account. This is suspicious and requires immediate 
-investigation as the account name suggests malicious intent.
-✅ ACTION:
-1. Immediately verify if Administrator authorized this account creation
-2. Check if Administrator account has been compromised
-3. Disable the "hacker" account immediately
-4. Review all actions performed by this new account since creation
-5. Isolate EC2AMAZ-BF6VI1C if compromise is confirmed
-```
+
+<img width="2827" height="625" alt="image" src="https://github.com/user-attachments/assets/a6ac3e7e-8f1d-4d16-bf65-740a2b8f4e9f" />
+
   
 ### Unauthorized Successful Login (Critical Severity)
 
