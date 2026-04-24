@@ -92,6 +92,8 @@ Configured a 3-step Tines workflow:
 ### 6. AI Agent Prompt
 The AI agent was given a custom system prompt instructing it to act as a SOC analyst, respond in a consistent format, apply severity guidelines, classify IP addresses, identify false positives, and follow escalation rules based on the environment context.
 
+> <img width="943" height="1706" alt="image" src="https://github.com/user-attachments/assets/bccc09b0-88ab-4259-96d1-3796708bf770" />
+
 ---
 
 ## Alert Examples
@@ -150,15 +152,16 @@ requiring immediate containment.
 
 ## Screenshots
 
+> <img width="3840" height="2088" alt="image" src="https://github.com/user-attachments/assets/8f8d923e-c40d-4413-b26d-60b4db3e44e7" />
+
 > <img width="3833" height="748" alt="image" src="https://github.com/user-attachments/assets/67e065af-981e-49f5-82cc-252374581f89" />
 
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef6d9452-dd5e-4fd0-a2c2-32d063d756cc" />
 
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9c27707-8c4a-44e5-b460-589bde10c40a" />
 
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d75f591c-66e2-4ebd-bc2c-e9ff112e6616" />
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87cd5609-b5c7-4807-8c2a-782e8d2bfac7" />
 
->
 
 ---
 
