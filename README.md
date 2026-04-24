@@ -114,6 +114,14 @@ The AI agent was given a custom system prompt instructing it to act as a SOC ana
 
 <img width="2818" height="691" alt="image" src="https://github.com/user-attachments/assets/9561f93b-2c81-4431-a01f-1549441fac40" />
 
+### User Account Modified or Deleted
+
+<img width="2582" height="617" alt="image" src="https://github.com/user-attachments/assets/2d74e205-4606-41cf-b35c-7cd2acad9e4b" />
+
+### User Account Disabled
+
+<img width="2729" height="417" alt="image" src="https://github.com/user-attachments/assets/3e323a8b-efb8-4a7a-b36c-92fea3ef5290" />
+
 ---
 
 ## Screenshots
