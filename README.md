@@ -129,29 +129,9 @@ investigation as the account name suggests malicious intent.
 ```
   
 ### Unauthorized Successful Login (Critical Severity)
-```
-🚨 ALERT: Unauthorized Successful Login
-📍 HOST: EC2AMAZ-6IKNFMV
-👤 USER: hacker
-🌐 IP: 172.58.53.185 (Unknown - requires investigation)
-⚠️ SEVERITY: Critical
-📋 SUMMARY: An account named "hacker" successfully authenticated from an 
-unknown external IP address. This represents a confirmed unauthorized breach 
-requiring immediate containment.
-✅ ACTION:
-1. ISOLATE EC2AMAZ-6IKNFMV from network immediately
-2. Force password reset for "hacker" account and all domain admins
-3. Check for lateral movement across all hosts
-4. Block 172.58.53.185 at firewall/WAF
-5. Preserve all logs for forensics
-6. Escalate to incident response team and AWS security
-```
-<details>
-<summary>🔽 Click to expand screenshot</summary>
 
 <img width="2818" height="691" alt="image" src="https://github.com/user-attachments/assets/9561f93b-2c81-4431-a01f-1549441fac40" />
 
-</details>
 ---
 
 ## Screenshots
